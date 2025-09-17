@@ -1,43 +1,31 @@
-<h1 align="center">BLOCKCHAIN TO-DO APP</h1>
-  <p align="center">
-    A simple Blockchain web app for creating to-do lists with smart contracts.
-    <br />
-    <a href="https://github.com/DebjitPramanick/Blockcahin-To-Do-List">View Demo</a>
-    ·
-    <a href="https://github.com/DebjitPramanick/Blockcahin-To-Do-List/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/DebjitPramanick/Blockcahin-To-Do-List/issues">Request Feature</a>
-  </p>
-</p>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Blockchain ToDoList DApp
+
+A simple decentralized To-Do List application built on Ethereum blockchain using Solidity, Truffle, Web3.js, and MetaMask.
+Users can add tasks, mark them as completed, and delete tasks. All actions are stored on the blockchain for transparency and immutability.
+
+🚀 Features
+
+✍️ Add new tasks to the blockchain
+
+✅ Mark tasks as completed
+
+❌ Delete tasks (soft delete using a flag)
+
+🔗 All data stored on Ethereum blockchain (no centralized DB)
+
+👛 MetaMask wallet integration for transactions
+
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+Smart Contracts: Solidity
+
+Blockchain Tools: Truffle, Ganache, Web3.js
+
+Wallet: MetaMask
 
 <img src="./screenshots/ss1.png" alt=""/>
 <br>
@@ -95,28 +83,6 @@ Here are some examples of how my app works.
 <img src="./screenshots/ss3.png" alt=""/>
 <br>
 
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/DebjitPramanick/Blockcahin-To-Do-List) for a list of proposed features (and known issues).
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-<!-- CONTACT -->
-## Contact
-
-Twitter - [@P_Debjit](https://twitter.com/P_Debjit)<br/> 
-LinkedIn - [Debjit Pramanick](https://www.linkedin.com/in/debjit-pramanick-7a6a971b1/)<br/> 
-Project Link: [https://github.com/DebjitPramanick/Blockcahin-To-Do-List](https://github.com/DebjitPramanick/Blockcahin-To-Do-List)
