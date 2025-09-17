@@ -5,7 +5,7 @@ Blockchain ToDoList DApp
 A simple decentralized To-Do List application built on Ethereum blockchain using Solidity, Truffle, Web3.js, and MetaMask.
 Users can add tasks, mark them as completed, and delete tasks. All actions are stored on the blockchain for transparency and immutability.
 
-🚀 Features
+ Features:
 
 ✍️ Add new tasks to the blockchain
 
@@ -17,7 +17,8 @@ Users can add tasks, mark them as completed, and delete tasks. All actions are s
 
 👛 MetaMask wallet integration for transactions
 
-🛠️ Tech Stack
+
+ Tech Stack:
 
 Frontend: HTML, CSS, JavaScript
 
@@ -56,7 +57,7 @@ These things must be installed in your system.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/DebjitPramanick/Blockcahin-To-Do-List.git
+   git clone https://github.com/Almatazmeen/To-Do-List-Blockchain.git
    ```
 2. Open the project folder
 3. Install NPM
